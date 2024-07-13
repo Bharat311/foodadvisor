@@ -25,7 +25,7 @@
     "strapi-plugin-populate-deep": "^1.1.2",
     "strapi-plugin-todo": "^0.0.9",
     "unzip-stream": "^0.3.4",
-    "uuid-v4": "^0.1.2"
+    "uuid-v4": "^6.2.13"
   },
   "author": {
     "name": "A Strapi developer"
